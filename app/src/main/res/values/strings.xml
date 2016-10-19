@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="LocationList">
+    <item>Newfoundland and Labrador</item>
+    <item>Ontario</item>
+    <item>British Columbia</item>
+    <item>Alberta</item>
+    <item>Quebec</item>
+    <item>Nova Scotia</item>
+    <item>New Brunswick</item>
+    <item>Prince Edward Island</item>
+    <item>Saskatchewan</item>
+</string-array>
+
+</resources>
